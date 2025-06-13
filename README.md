@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C7B58A&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#003366&height=120&section=header" alt="header"/> 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=4000&pause=1000&color=E6DCC0&center=true&vCenter=true&width=600&repeat=false&lines=Hi,+I'm+Esraa!+++++" alt="Typing SVG" />
 </h1>
